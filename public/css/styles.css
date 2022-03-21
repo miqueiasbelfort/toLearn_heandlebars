@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+}
+body{
+    background: #1d1d1d;
+}
+a{
+    color: #bf0000;
+    text-decoration: none;
+}
+.title{
+    margin-top: 25px;
+}
+.post{
+    padding: 10px 0;
+}
+.inputName{
+    outline: none;
+    padding: 10px;
+    border-radius: 7px;
+    border: 1px solid #bf0000;
+}
+.btnSubmit{
+    padding: 10px;
+    color: black;
+    cursor: pointer;
+    border-radius: 7px;
+    border: none;
+}
